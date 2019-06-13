@@ -15,4 +15,4 @@
 ![alt](https://github.com/vibhuti03/Student-Management-System/blob/master/Savesuccess.png)
 
 ### Displaying Database
-1[alt](https://github.com/vibhuti03/Student-Management-System/blob/master/Display.png)
+![alt](https://github.com/vibhuti03/Student-Management-System/blob/master/Display.png)
